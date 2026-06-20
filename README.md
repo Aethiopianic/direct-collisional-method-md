@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository contains the Fortran 95/2003 implementation and supporting analysis scripts for a hybrid gas-dynamics simulation model proposed in my senior thesis. The **Direct Collisional Method** blends key features of two established approaches:
+This repository contains the Fortran 90 implementation and supporting analysis scripts for a hybrid gas-dynamics simulation model proposed in my senior thesis. The **Direct Collisional Method** blends key features of two established approaches:
 
 | Method | Strength | Weakness |
 |--------|----------|----------|
